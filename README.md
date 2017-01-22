@@ -29,3 +29,6 @@ be useful as a foundation for the upcoming immersive on-site coding class, later
 :one: I love Music & Sport. I often post activity photos on my [instagram](https://www.instagram.com/zanisis/).  
 :two:  Always to learn something new. there are still many we do not yet know this biggest world  
 :three:  This year will i make decision very hard. As I escaped from my job, for better future :rocket:
+
+**Future Plans:**
+I want to work on google :metal:
